@@ -1,5 +1,5 @@
 {
-    "name": "tmh/tmh",
+    "name": "tmh/healthcheck",
     "description": "egg healthcheck",
     "license": "BSD-2-Clause",
     "authors": [
