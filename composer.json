@@ -1,6 +1,6 @@
 {
     "name": "tmh/healthcheck",
-    "description": "egg healthcheck",
+    "description": "tmh healthcheck",
     "license": "BSD-2-Clause",
     "authors": [
         {
